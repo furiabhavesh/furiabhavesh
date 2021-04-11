@@ -10,7 +10,7 @@ I am a Software Engineer with 10 years of experience in web application developm
 
 - 🤔 I’m looking for help with cloud computing concepts, networking fundamentals, functional programming etc.
 
-- 📫 How to reach me : [Email](mailto:furia.bhavesh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/furiabhavesh/)
+- 📫 How to reach me : [Email](mailto:furia.bhavesh@gmail.com)
 
 ![Bhavesh's Github stats](https://github-readme-stats.vercel.app/api?username=furiabhavesh&show_icons=true&hide_border=true)
 
